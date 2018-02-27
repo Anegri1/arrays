@@ -30,6 +30,7 @@ yarn test
         2. Female
     3. State
 2. Map the array to format each object to look like this: 
+
     ```js
       { firstName: '', lastName: '', party: '', gender: ''}
     ```   
